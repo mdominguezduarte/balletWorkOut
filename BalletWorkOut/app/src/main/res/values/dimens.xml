@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+
+<resources>
+    <dimen name="main_screen_padding">4dp</dimen>
+</resources>
